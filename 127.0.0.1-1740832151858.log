@@ -1,0 +1,19 @@
+(index):134 Live reload enabled.
+script.js:105 one
+script.js:125 After processing: tempNum= 1, numArr= String[], operator= 
+script.js:105 add
+script.js:120 Calling updateOperator function with (add)
+script.js:134 updateOperator called with btnId=add
+script.js:136 Updating operator from  to add
+script.js:125 After processing: tempNum= , numArr= String[1], operator= add
+script.js:105 two
+script.js:125 After processing: tempNum= 2, numArr= String[1], operator= add
+script.js:105 minus
+script.js:116 calling calculate func with a=1, operator = add, newOperator = minus
+script.js:164 getting into the inner loop of calculate
+script.js:165 operator: add
+script.js:166 btnId: minus
+script.js:167 going to convert operator add to be minus
+script.js:170 minus
+script.js:118 After calculation, operator= add
+script.js:125 After processing: tempNum= , numArr= String[3], operator= add
